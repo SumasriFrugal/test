@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Date: Fri, 17 Oct 2025 10:09:27 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 120
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: set-cookie,Set-Cookie
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+Set-Cookie: accessToken=s%3AeyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrNFYtcHpQMG0iLCJpYXQiOjE3NjA2OTU3NjMsImV4cCI6MTc5MjIzMTc2M30.eEjNvp4wQJWwYtYb_QSxyoC0VvptmZ94DM4KEb32XiMwhTTTLbTyByplRhPti6hXDvSUjm41S-fk53JWtO-_SQ.X9Od79jQLG3s79CvPZWwrJmTe%2F%2FDCOIEceEj%2BBUKAtY; Domain=.staging.myautochek.com; Path=/; Expires=Sun, 23 Sep 2125 10:09:27 GMT
+ETag: W/"78-Bt6sb82gf+jfWRQEGKZipnuex7Q"
+server: hide
+
+{
+    "statusCode": 404,
+    "message": "ENOENT: no such file or directory, stat '/home/micro-api-gateway/finance_docs/index.html'"
+}

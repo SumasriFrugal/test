@@ -1,0 +1,117 @@
+HTTP/1.1 200 OK
+Date: Fri, 17 Oct 2025 10:09:25 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1781
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: set-cookie,Set-Cookie
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+ETag: W/"6f5-IK+R3RxzGPuh1es7LNsekdxwIFE"
+server: hide
+
+{
+    "result": [
+        {
+            "users": [
+                
+            ],
+            "documents": [
+                
+            ],
+            "dsas": [
+                {
+                    "id": "4pyPvN7_y",
+                    "firstname": "Chetan",
+                    "lastname": "Seth",
+                    "email": "chetanseth5@gmail.com",
+                    "primaryPhone": "2348080685637"
+                }
+            ],
+            "openingDaysAndTime": [
+                {
+                    "startDay": "Monday",
+                    "endDay": "Friday",
+                    "startTime": "8:00 AM",
+                    "endTime": "4:00 PM"
+                }
+            ],
+            "staffs": [
+                
+            ],
+            "pictures": [
+                
+            ],
+            "id": "kpMngdaMZ",
+            "name": "100% Automobile Nig.",
+            "owner": "-lh7_mmKJ",
+            "email": "ef_jesta@yahoo.com",
+            "phonenumber": "2348033152155",
+            "status": "approved",
+            "contract": "pending",
+            "pocketReferenceId": "200000525",
+            "type": "dealer",
+            "subscriptionStatus": false,
+            "displayAddress": ":1st Avenue, plot C Festac Access road near Fidelity bank",
+            "address": "wedfr wdefr (ij), werfgfds, wdf, Nigeria",
+            "hasAssociation": false,
+            "longitude": 8.675276756286621,
+            "latitude": 9.081998825073242,
+            "onboardingSource": {
+                "roles": [
+                    
+                ],
+                "deviceTokens": [
+                    
+                ],
+                "id": "-lh7_mmKJ",
+                "firstname": "Arinzechukwu",
+                "lastname": "Arinzechukwu",
+                "email": "ef_jesta@yahoo.com",
+                "primaryPhone": "2348033152151",
+                "createdBy": "",
+                "referrerCode": "P4EXWTDE",
+                "country": "NG",
+                "active": true,
+                "createdAt": "Tue Mar 23 2021 17:01:49 GMT+0000 (Coordinated Universal Time)",
+                "updatedAt": "Fri Aug 15 2025 06:28:03 GMT+0000 (Coordinated Universal Time)",
+                "referredBy": "-lh7_mmKJ",
+                "receiveNotification": true
+            },
+            "isAnchor": false,
+            "accountManager": {
+                "id": "gRHB-cDwM",
+                "firstname": "Adelowo ",
+                "lastname": "Tolulope Adeniran",
+                "email": "tolulope.a@autochek.africa",
+                "primaryPhone": "+2348170788708"
+            },
+            "forCollateralInspection": true,
+            "whatsappNumber": "2347889455612",
+            "displayPhoneNumber": "2344566235212",
+            "extraDisplayPhoneNumber": "2347894555565",
+            "instagramHandle": "",
+            "facebookHandle": "",
+            "createdAt": "Tue Mar 23 2021 17:02:56 GMT+0000 (Coordinated Universal Time)",
+            "houseNo": "wedfr",
+            "zipCode": "",
+            "streetName": "wdefr",
+            "nearestLandmark": "ij"
+        }
+    ],
+    "pagination": {
+        "total": 1877,
+        "currentPage": 1,
+        "pageSize": 10
+    }
+}
