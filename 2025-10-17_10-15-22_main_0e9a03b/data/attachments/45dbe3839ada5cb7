@@ -1,0 +1,34 @@
+HTTP/1.1 400 Bad Request
+Date: Fri, 17 Oct 2025 10:14:54 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 222
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: set-cookie,Set-Cookie
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+Set-Cookie: accessToken=s%3AeyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrNFYtcHpQMG0iLCJpYXQiOjE3NjA2OTYwODcsImV4cCI6MTc5MjIzMjA4N30.tkZ0XTx8Dll0UlgnrT7l9U79iUlOmHAeqUZe_3Mct_BbpmFvM1n_LFsz7FVgNwVDPsI2fYdukZUYvyw90CyPjQ.s9K%2Fwo3Wg%2FRnTUBn6JA0ihsmV8ia7VsrMbPFSxU0ddE; Domain=.staging.myautochek.com; Path=/; Expires=Sun, 23 Sep 2125 10:14:54 GMT
+ETag: W/"de-NN1lsPmIpSY4Biu8RClLV8L7suw"
+server: hide
+
+{
+    "code": 400,
+    "error": " Error fetching franchisefranchise id not found",
+    "message": " Error fetching franchisefranchise id not found",
+    "details": [
+        {
+            "type_url": "https://api.staging.myautochek.com",
+            "value": "/v1/franchise/FALSE"
+        }
+    ]
+}
